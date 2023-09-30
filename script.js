@@ -27,7 +27,7 @@ menu.addEventListener("click",function(){
 })
 
 clo.addEventListener("click",function(){
-  nav.style.top = "-100%";
+  nav.style.top = "-120%";
 })
 
 var store = document.querySelector("#store");
