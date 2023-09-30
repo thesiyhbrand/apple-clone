@@ -1,6 +1,6 @@
 @font-face {
     font-family: FontRegular;
-    src: url(/Assets/Fonts/sf-pro-display_regular.ttf);
+    src: url(Assets/Fonts/sf-pro-display_regular.ttf);
 }
 
 *{
@@ -46,7 +46,7 @@ nav i{
     justify-content: center;
     width: 100%;
     height: 70vh;
-    background-image: url(/Assets/hero_iphone15pro__i70z9oz3hj2i_largetall.jpg);
+    background-image: url(Assets/hero_iphone15pro__i70z9oz3hj2i_largetall.jpg);
     background-position: center;
 }
 
@@ -87,7 +87,7 @@ nav i{
 }
 
 .part-2{
-    background-image: url(/Assets/hero_iphone15_announce__uuemlcwczn6u_largetall.jpg);
+    background-image: url(Assets/hero_iphone15_announce__uuemlcwczn6u_largetall.jpg);
 }
 
 .text-part-2{
@@ -95,7 +95,7 @@ nav i{
 }
 
 .part-3{
-    background-image: url(/Assets/image3.jpg);
+    background-image: url(Assets/image3.jpg);
 }
 
 .part-4{
@@ -107,14 +107,14 @@ nav i{
     height: 60vh;
     width: 50%;
     background-repeat: no-repeat;
-    background-image: url(/Assets/4-1.jpg);
+    background-image: url(Assets/4-1.jpg);
 }
 
 .part-4-2{
     height: 60vh;
     width: 50%;
     background-repeat: no-repeat;
-    background-image: url(/Assets/4-2.jpg);
+    background-image: url(Assets/4-2.jpg);
 }
 
 .part-4 .text-part-1{
@@ -159,22 +159,22 @@ nav i{
 }
 
 .swiper-1{
-    background-image: url(/Assets/1.jpg);
+    background-image: url(Assets/1.jpg);
 }
 .swiper-2{
-    background-image: url(/Assets/2.jpg);
+    background-image: url(Assets/2.jpg);
 }
 .swiper-3{
-    background-image: url(/Assets/3.jpg);
+    background-image: url(Assets/3.jpg);
 }
 .swiper-4{
-    background-image: url(/Assets/4.jpg);
+    background-image: url(Assets/4.jpg);
 }
 .swiper-5{
-    background-image: url(/Assets/5.jpg);
+    background-image: url(Assets/5.jpg);
 }
 .swiper-6{
-    background-image: url(/Assets/6.jpg);
+    background-image: url(Assets/6.jpg);
 }
 
 .ri-menu-3-line{
@@ -235,7 +235,7 @@ nav i{
         display: none;
     }
     #partO{
-        background-image: url(/Assets/resp1.jpg);
+        background-image: url(Assets/resp1.jpg);
     }
     .slider-part{
         height: 50vh;
@@ -285,7 +285,7 @@ nav i{
          font-size: 5.2vw;
     }
     .part-2{
-        background-image: url(/Assets/resp2.jpg);
+        background-image: url(Assets/resp2.jpg);
     }
     .part-4{
         flex-direction: column;
